@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a PhD student and Research Assistant in the School of Veterinary Medicine and Life Sciences, City University of Hong Kong, supervised by [Prof. Patrick BUTAYE](https://www.cityu.edu.hk/vcs/staff/prof-patrick-butaye), [Prof. Celine LOUBIERE](https://www.cityu.edu.hk/vcs/staff/prof-celine-loubiere.htm) and [Prof. Jeongmin SONG](https://www.vet.cornell.edu/about-us/people/jeongmin-song-phd).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I was a visiting scholar at Cornell University during my PhD.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research focuses on veterinary microbiology, including *Streptococcus equi*, antimicrobial resistance, and metagenomics.

@@ -1,27 +1,17 @@
 type = "card"
 title = "奖项"
-description = "我获得的荣誉与奖项。"
+description = "我获得的部分荣誉与奖项。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "研究生杰出学术表现奖"
+subtitle = "香港城市大学"
+date = "2026"
+content = "表彰在研究生阶段取得优异学术表现的研究型学生。"
+
+[[items]]
+title = "《医学微生物学杂志》青年研究者海报一等奖"
+subtitle = "微生物学会（Microbiology Society）"
 date = "2025"
-content = "奖项说明。"
+content = "在欧洲兽医微生物学学院（ECVM）第七届国际会议上，凭出色的海报展示获得一等奖。"
 
-[[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2024"
-content = "奖项说明。"
 
-[[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2023"
-content = "奖项说明。"
-
-[[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"

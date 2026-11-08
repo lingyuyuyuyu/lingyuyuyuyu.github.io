@@ -1,0 +1,63 @@
+type = "card"
+title = "Activities"
+description = "Academic activities"
+
+[[items]]
+title = "STEM Lab Tour for Visiting Veterinary Students"
+subtitle = "City University of Hong Kong"
+date = "2026-10-26"
+content = """
+I guided a STEM Lab tour for graduate students from the College of Veterinary Medicine at Xinjiang Agricultural University.
+
+I introduced the laboratory facilities, equipment, research areas and ongoing projects. Through research discussions and a Q&A session, we exchanged ideas with the visiting students and explored opportunities for future academic collaboration.
+![XJ-visiting](/XJ-visiting.jpeg)
+"""  
+
+[[items]]
+title = "2026 AFCD One Health AMR Seminar"
+subtitle = "Hong Kong Science Museum, Hong Kong"
+date = "2026-10-23"
+content = """
+Attended the Seminar on One Health Approaches to Antimicrobial Resistance: Surveillance, Stewardship and Action, organised by the Agriculture, Fisheries and Conservation Department (AFCD).
+
+The seminar focused on antimicrobial resistance surveillance, antimicrobial stewardship, and action through a One Health approach.
+
+![AFCD](/AFCD.jpg)
+"""  
+[[items]]
+title = "Research Presentation during Prof. Clare Bryant's Visit"
+subtitle = "City University of Hong Kong"
+date = "2026-09-15"
+content = """
+Presented my PhD research during the visit of [Prof. Clare Bryant](https://www.bio.cam.ac.uk/staff/clare-bryant) from the University of Cambridge to City University of Hong Kong. Prof. Bryant provided valuable feedback and guidance on our research projects. We discussed our findings and research approaches with her, gaining new perspectives and ideas for further investigation.
+
+![Clare](/Clare.jpeg)
+"""
+
+[[items]]
+title = "2026 Havemeyer Foundation Workshop on Strangles and Streptococcal Diseases"
+subtitle = "Kansas State University, Manhattan, Kansas, USA"
+date = "2026-07-21 – 2026-07-24"
+content = """
+Presented my research at the Havemeyer Foundation Workshop, "Getting to Grips with Strangles and Other Streptococcal Diseases", organised by the veterinary research group at Kansas State University, alongside veterinary researchers and microbiologists from international institutions.
+
+The workshop covered the biology, diagnostics, genetics and control of *Streptococcus equi* and related streptococcal diseases.
+
+I exchanged research ideas with experts in the field and explored opportunities for future collaboration on streptococcal pathogens.
+
+
+![Havemeyer](/Havemeyer-1.jpeg)
+![Havemeyer](/Havemeyer-2.jpeg)
+"""
+
+[[items]]
+title = "Visiting Research at Cornell University"
+subtitle = "Cornell University, USA"
+content = """
+During my PhD, I undertook a research visit at Cornell University, working with Prof. Jeongmin Song to investigate the roles of *sap* genes in bacterial cholesterol uptake.
+
+![Research visit at Cornell University](/Cornell.jpeg)
+"""
+
+
+

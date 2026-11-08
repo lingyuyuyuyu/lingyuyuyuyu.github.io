@@ -1,5 +1,5 @@
-我目前是某某大学理学院博士生，导师是 [导师甲教授](https://example.com) 和 [导师乙博士](https://example.com)。
+我目前是香港城市大学赛马会动物医学及生命科学院的博士生兼研究助理，导师为 [Patrick Butaye 教授](https://www.cityu.edu.hk/vcs/staff/prof-patrick-butaye)、[Celine Loubière 教授](https://www.cityu.edu.hk/vcs/staff/prof-celine-loubiere.htm) 和 [Jeongmin Song 教授](https://www.vet.cornell.edu/about-us/people/jeongmin-song-phd)。
 
-此前，我在某某大学获得自然科学学士学位（一等荣誉）。
+博士期间，我曾赴美国康奈尔大学开展访学研究。
 
-我的研究主要关注自然哲学中的数学原理。
+我的研究聚焦于兽医微生物学，主要方向包括马链球菌（*Streptococcus equi*）、抗菌药物耐药性及宏基因组学。

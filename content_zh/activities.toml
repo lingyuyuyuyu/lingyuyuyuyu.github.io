@@ -1,0 +1,60 @@
+type = "card"
+title = "学术活动"
+description = "学术交流"
+
+[[items]]
+title = "新疆农业大学兽医学院研究生 STEM 实验室参访交流"
+subtitle = "香港城市大学"
+date = "2026-10-26"
+content = """
+我为新疆农业大学动物医学学院的研究生开展 STEM 实验室导览。
+
+向来访学生介绍了实验室设施、仪器设备、研究方向及正在开展的科研项目，并通过研究分享与问答交流，探讨研究思路及未来学术合作的可能性。
+![XJ-visiting](/XJ-visiting.jpeg)
+"""
+
+[[items]]
+title = "2026「健康一体」抗菌素耐药性研讨会"
+subtitle = "香港科学馆，香港"
+date = "2026-10-23"
+content = """
+参加由香港渔农自然护理署举办的「健康一体」抗菌素耐药性研讨会：监测、管理与行动。
+
+研讨会围绕「健康一体」（One Health）理念，探讨抗菌素耐药性监测、抗菌药物合理使用与管理，以及相关应对行动。
+
+![AFCD](/AFCD.jpg)
+"""  
+
+[[items]]
+title = "Clare Bryant 教授来访期间的博士生研究汇报"
+subtitle = "香港城市大学"
+date = "2026-09-15"
+content = """
+在英国剑桥大学 [Clare Bryant 教授](https://www.bio.cam.ac.uk/staff/clare-bryant) 来访香港城市大学期间，进行博士课题研究汇报。Bryant 教授对我们的研究课题提出了宝贵的意见与指导。我们与她交流了研究发现和研究思路，为后续研究获得了新的视角与启发。
+
+![Clare](/Clare.jpeg)
+"""
+
+[[items]]
+title = "2026 Havemeyer Foundation Workshop on Strangles and Streptococcal Diseases"
+subtitle = "美国堪萨斯州立大学，堪萨斯州曼哈顿市"
+date = "2026-07-21 – 2026-07-24"
+content = """
+参加由美国堪萨斯州立大学兽医研究团队组织的 Havemeyer 基金会“Getting to Grips with Strangles and Other Streptococcal Diseases”专题工作坊，并作研究汇报，与来自国际科研机构的兽医研究人员和微生物学者共同交流。
+通过专题讲座与讨论，学习马链球菌（*Streptococcus equi*）及相关链球菌病在生物学、诊断、遗传学和防控方面的最新研究进展。
+
+期间与领域内专家交流研究思路，并探讨围绕链球菌病原开展未来科研合作的可能性。
+
+![Havemeyer](/Havemeyer-1.jpeg)
+![Havemeyer](/Havemeyer-2.jpeg)
+"""
+
+[[items]]
+title = "康奈尔大学访学研究"
+subtitle = "美国康奈尔大学"
+content = """
+博士期间，我赴美国康奈尔大学开展访学研究，探究霍乱弧菌（*Vibrio cholerae*）中 *sap* 基因在胆固醇摄取中的作用。
+
+![Research visit at Cornell University](/Cornell.jpeg)
+"""  
+

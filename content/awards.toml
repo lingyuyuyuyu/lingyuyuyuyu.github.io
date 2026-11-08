@@ -1,27 +1,16 @@
 type = "card"
-title = "Awards"
+title = "Selected Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Outstanding Academic Performance Award for Research Degree Students"
+subtitle = "City University of Hong Kong"
+date = "2026"
+content = "Awarded for excellent academic performance in postgraduate research."
+
+[[items]]
+title = "Journal of Medical Microbiology Early-Career Poster 1st Prize"
+subtitle = "Microbiology Society"
 date = "2025"
-content = "Description of the award."
+content = "Awarded at the 7th International Conference of the European College of Veterinary Microbiology (ECVM), for outstanding poster presentation."
 
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
